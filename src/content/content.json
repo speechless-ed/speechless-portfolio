@@ -1,0 +1,135 @@
+{
+  "site": {
+    "brand": "Speechless",
+    "fullName": "BOSUAKPE MICHAEL EDEM",
+    "title": "Speechless | Student, Developer & Product Builder",
+    "description": "Portfolio of Bosuakpe Michael Edem (Speechless), a Robotics Engineering and AI student at UMaT, Ghana, building software, AI projects, and products.",
+    "badgeTagline": "Builder · Thinker · Creator",
+    "motto": "Build. Learn. Impact."
+  },
+  "hero": {
+    "eyebrow": "Student · Developer · Product Builder",
+    "greeting": "Hi, I'm Speechless",
+    "headline": "Learning. Building. Turning Ideas Into Products.",
+    "copy": "I'm Speechless, a Robotics Engineering and AI student exploring software development, artificial intelligence, and product building. I enjoy turning ideas into practical solutions and documenting what I learn along the way.",
+    "primaryCta": "Explore My Work",
+    "secondaryCta": "Get In Touch"
+  },
+  "about": {
+    "paragraphs": [
+      "I'm a Robotics Engineering and Artificial Intelligence student at the University of Mines and Technology (UMaT), Ghana, developing my skills in programming, AI, robotics, and product development.",
+      "I learn best by building: picking a real problem, experimenting with a solution, and shipping something people can actually use.",
+      "Longer term, I want to become a capable technology builder who can design, develop, launch, and grow useful software products."
+    ],
+    "values": [
+      { "id": "value-curiosity", "title": "Curiosity", "text": "I like understanding how things work before I build on them." },
+      { "id": "value-learning", "title": "Continuous learning", "text": "Every project is also a chance to pick up a new skill." },
+      { "id": "value-experiments", "title": "Practical experimentation", "text": "I try ideas in code early, then refine what works." },
+      { "id": "value-problem-solving", "title": "Problem-solving", "text": "I start from a real problem and work toward something useful." },
+      { "id": "value-shipping", "title": "Building and shipping", "text": "Finished and imperfect beats perfect and unseen." },
+      { "id": "value-entrepreneurial", "title": "Entrepreneurial thinking", "text": "I think about the people who would use what I build." }
+    ]
+  },
+  "projects": [
+    {
+      "id": "project-school-drop",
+      "name": "School Drop",
+      "status": "In Progress",
+      "description": "A school-focused social platform built around school-specific access codes and anonymous student posts.",
+      "features": [
+        "School selection and validation",
+        "Anonymous student posting",
+        "Reactions",
+        "Comments (in development)"
+      ],
+      "tech": ["React", "Vite", "Supabase"],
+      "repoUrl": "",
+      "demoUrl": ""
+    },
+    {
+      "id": "project-shelf-life",
+      "name": "Shelf Life",
+      "status": "Concept",
+      "description": "An application concept that helps people keep track of product expiry dates and get reminded before things expire.",
+      "features": [
+        "Product information entry",
+        "Expiry-date extraction from product images (intended workflow)",
+        "Review and correct extracted details",
+        "Expiry reminders (planned)"
+      ],
+      "tech": ["React", "Supabase"],
+      "repoUrl": "",
+      "demoUrl": ""
+    },
+    {
+      "id": "project-data-hub",
+      "name": "Speechless Data Hub",
+      "status": "In Progress",
+      "description": "A data-reselling business with an online customer entry point. It's my hands-on way of learning digital entrepreneurship, customer experience, and online sales.",
+      "features": [
+        "Digital entrepreneurship",
+        "Customer experience",
+        "Product presentation",
+        "Online sales experimentation"
+      ],
+      "tech": [],
+      "repoUrl": "",
+      "demoUrl": ""
+    },
+    {
+      "id": "project-experiments",
+      "name": "Experiments and Future Builds",
+      "status": "Exploring",
+      "description": "Smaller coding experiments, plus future robotics and AI projects I'm planning to explore.",
+      "features": ["Small coding experiments", "Robotics projects", "AI agent ideas"],
+      "tech": ["Python", "JavaScript"],
+      "repoUrl": "",
+      "demoUrl": ""
+    }
+  ],
+  "skills": [
+    { "id": "skills-programming", "category": "Programming", "items": ["Python", "JavaScript", "HTML and CSS"] },
+    { "id": "skills-tools", "category": "Development tools", "items": ["Git", "GitHub", "VS Code"] },
+    { "id": "skills-frameworks", "category": "Frameworks and platforms", "items": ["React", "Vite", "Supabase"] },
+    {
+      "id": "skills-interests",
+      "category": "Technical interests",
+      "items": ["Artificial intelligence", "Robotics", "Automation", "AI agents", "Product development"]
+    }
+  ],
+  "journey": [
+    {
+      "id": "journey-umat",
+      "title": "University education at UMaT",
+      "period": "",
+      "description": "Studying BSc. Robotics Engineering and Artificial Intelligence at the University of Mines and Technology, Ghana."
+    },
+    {
+      "id": "journey-software",
+      "title": "Learning software development",
+      "period": "",
+      "description": "Picking up Python, JavaScript, HTML and CSS, plus the tools around them: Git, GitHub, and VS Code."
+    },
+    {
+      "id": "journey-projects",
+      "title": "Building practical projects",
+      "period": "",
+      "description": "Turning ideas into working software with React, Vite, and Supabase, including School Drop and Shelf Life."
+    },
+    {
+      "id": "journey-exploring",
+      "title": "Exploring robotics, AI, and entrepreneurship",
+      "period": "",
+      "description": "Connecting what I study with what I build, from AI agents and automation to the Speechless Data Hub business."
+    }
+  ],
+  "contact": {
+    "intro": "I'm open to internships, collaborations, and conversations about building useful products. If that sounds like your kind of project, I'd like to hear from you.",
+    "email": "",
+    "linkedin": "",
+    "github": ""
+  },
+  "footer": {
+    "closing": "Still learning, still building. Thanks for stopping by."
+  }
+}
